@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+
+        let s: Extra_Long_Factorials = Extra_Long_Factorials()
+        s.extraLongFactorials(n: 25)
+//        print()
+
     }
 
 

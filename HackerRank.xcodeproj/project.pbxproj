@@ -8,22 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		E116C543234BA3E3003FF94C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C542234BA3E3003FF94C /* AppDelegate.swift */; };
-		E116C545234BA3E3003FF94C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C544234BA3E3003FF94C /* SceneDelegate.swift */; };
 		E116C547234BA3E3003FF94C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C546234BA3E3003FF94C /* ViewController.swift */; };
 		E116C54A234BA3E3003FF94C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E116C548234BA3E3003FF94C /* Main.storyboard */; };
 		E116C54C234BA3E4003FF94C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E116C54B234BA3E4003FF94C /* Assets.xcassets */; };
 		E116C54F234BA3E4003FF94C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E116C54D234BA3E4003FF94C /* LaunchScreen.storyboard */; };
+		E116C559234BA468003FF94C /* Forming_A_Magic_Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C558234BA468003FF94C /* Forming_A_Magic_Square.swift */; };
+		E116C55C234BA5E1003FF94C /* Compare_the_Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C55B234BA5E1003FF94C /* Compare_the_Triplets.swift */; };
+		E116C55E234BA7A9003FF94C /* Simple_Array_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C55D234BA7A9003FF94C /* Simple_Array_Sum.swift */; };
+		E116C560234BA86A003FF94C /* Solve_Me_First.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C55F234BA86A003FF94C /* Solve_Me_First.swift */; };
+		E116C562234BAB08003FF94C /* Climbing_the_Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C561234BAB08003FF94C /* Climbing_the_Leaderboard.swift */; };
+		E116C564234C8B8A003FF94C /* The_Hurdle_Race.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C563234C8B8A003FF94C /* The_Hurdle_Race.swift */; };
+		E116C566234C9074003FF94C /* Designer_PDF_Viewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C565234C9074003FF94C /* Designer_PDF_Viewer.swift */; };
+		E116C568234C9A86003FF94C /* Extra_Long_Factorials.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C567234C9A86003FF94C /* Extra_Long_Factorials.swift */; };
+		E116C56A234D0D3D003FF94C /* Non_Divisible_Subset.swift in Sources */ = {isa = PBXBuildFile; fileRef = E116C569234D0D3D003FF94C /* Non_Divisible_Subset.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E116C53F234BA3E3003FF94C /* HackerRank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerRank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E116C542234BA3E3003FF94C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E116C544234BA3E3003FF94C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E116C546234BA3E3003FF94C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E116C549234BA3E3003FF94C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E116C54B234BA3E4003FF94C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E116C54E234BA3E4003FF94C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E116C550234BA3E4003FF94C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E116C558234BA468003FF94C /* Forming_A_Magic_Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Forming_A_Magic_Square.swift; sourceTree = "<group>"; };
+		E116C55B234BA5E1003FF94C /* Compare_the_Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compare_the_Triplets.swift; sourceTree = "<group>"; };
+		E116C55D234BA7A9003FF94C /* Simple_Array_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simple_Array_Sum.swift; sourceTree = "<group>"; };
+		E116C55F234BA86A003FF94C /* Solve_Me_First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solve_Me_First.swift; sourceTree = "<group>"; };
+		E116C561234BAB08003FF94C /* Climbing_the_Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Climbing_the_Leaderboard.swift; sourceTree = "<group>"; };
+		E116C563234C8B8A003FF94C /* The_Hurdle_Race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_Hurdle_Race.swift; sourceTree = "<group>"; };
+		E116C565234C9074003FF94C /* Designer_PDF_Viewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Designer_PDF_Viewer.swift; sourceTree = "<group>"; };
+		E116C567234C9A86003FF94C /* Extra_Long_Factorials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extra_Long_Factorials.swift; sourceTree = "<group>"; };
+		E116C569234D0D3D003FF94C /* Non_Divisible_Subset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_Divisible_Subset.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +72,8 @@
 		E116C541234BA3E3003FF94C /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				E116C556234BA41E003FF94C /* Algorithms */,
 				E116C542234BA3E3003FF94C /* AppDelegate.swift */,
-				E116C544234BA3E3003FF94C /* SceneDelegate.swift */,
 				E116C546234BA3E3003FF94C /* ViewController.swift */,
 				E116C548234BA3E3003FF94C /* Main.storyboard */,
 				E116C54B234BA3E4003FF94C /* Assets.xcassets */,
@@ -65,6 +81,38 @@
 				E116C550234BA3E4003FF94C /* Info.plist */,
 			);
 			path = HackerRank;
+			sourceTree = "<group>";
+		};
+		E116C556234BA41E003FF94C /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				E116C55A234BA5BA003FF94C /* Warmup */,
+				E116C557234BA446003FF94C /* Implementation */,
+			);
+			path = Algorithms;
+			sourceTree = "<group>";
+		};
+		E116C557234BA446003FF94C /* Implementation */ = {
+			isa = PBXGroup;
+			children = (
+				E116C558234BA468003FF94C /* Forming_A_Magic_Square.swift */,
+				E116C561234BAB08003FF94C /* Climbing_the_Leaderboard.swift */,
+				E116C563234C8B8A003FF94C /* The_Hurdle_Race.swift */,
+				E116C565234C9074003FF94C /* Designer_PDF_Viewer.swift */,
+				E116C567234C9A86003FF94C /* Extra_Long_Factorials.swift */,
+				E116C569234D0D3D003FF94C /* Non_Divisible_Subset.swift */,
+			);
+			path = Implementation;
+			sourceTree = "<group>";
+		};
+		E116C55A234BA5BA003FF94C /* Warmup */ = {
+			isa = PBXGroup;
+			children = (
+				E116C55B234BA5E1003FF94C /* Compare_the_Triplets.swift */,
+				E116C55D234BA7A9003FF94C /* Simple_Array_Sum.swift */,
+				E116C55F234BA86A003FF94C /* Solve_Me_First.swift */,
+			);
+			path = Warmup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +186,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E116C559234BA468003FF94C /* Forming_A_Magic_Square.swift in Sources */,
 				E116C547234BA3E3003FF94C /* ViewController.swift in Sources */,
+				E116C55C234BA5E1003FF94C /* Compare_the_Triplets.swift in Sources */,
+				E116C55E234BA7A9003FF94C /* Simple_Array_Sum.swift in Sources */,
 				E116C543234BA3E3003FF94C /* AppDelegate.swift in Sources */,
-				E116C545234BA3E3003FF94C /* SceneDelegate.swift in Sources */,
+				E116C560234BA86A003FF94C /* Solve_Me_First.swift in Sources */,
+				E116C564234C8B8A003FF94C /* The_Hurdle_Race.swift in Sources */,
+				E116C566234C9074003FF94C /* Designer_PDF_Viewer.swift in Sources */,
+				E116C568234C9A86003FF94C /* Extra_Long_Factorials.swift in Sources */,
+				E116C56A234D0D3D003FF94C /* Non_Divisible_Subset.swift in Sources */,
+				E116C562234BAB08003FF94C /* Climbing_the_Leaderboard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
